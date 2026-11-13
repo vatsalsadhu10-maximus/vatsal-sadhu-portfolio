@@ -52,23 +52,45 @@ I'm actively building a portfolio of projects across business analysis, data ana
 - Active Directory fundamentals
 - Jira and service desk ticket management
 
-## Featured Project
 
-![Customer Churn by Segment](https://raw.githubusercontent.com/vatsalsadhu10-maximus/telecom-customer-segmentation/main/outputs/churn_by_cluster.png)
+## Featured Project
 
 ### Telecommunications Customer Segmentation & Churn Analysis
 
-**Tools:** Python | Pandas | Scikit-learn | Matplotlib | K-Means Clustering
+**Business Problem:** A telecommunications company wants to better understand customer behaviour and identify segments that may require targeted retention strategies.
 
-Analysed a telecommunications customer dataset containing 7,043 records to identify distinct customer segments and evaluate differences in observed customer churn.
+**My Approach:**
+- Analysed 7,043 customer records using Python and Pandas.
+- Prepared customer data for K-Means clustering.
+- Compared clustering performance using evaluation metrics.
+- Selected four interpretable customer segments.
+- Analysed observed churn rates across segments.
 
-**Key findings:**
-- Identified four interpretable customer segments.
-- Identified a newer, higher-spending segment with an observed churn rate of 48.60%.
-- Compared cluster profiles using customer tenure, monthly charges and service characteristics.
-- Developed exploratory retention hypotheses based on customer behaviour.
+### Key Results
 
-[View Project on GitHub](https://github.com/vatsalsadhu10-maximus/telecom-customer-segmentation)
+![Customer Churn by Segment](https://raw.githubusercontent.com/vatsalsadhu10-maximus/telecom-customer-segmentation/main/outputs/churn_by_cluster.png)
+
+| Metric | Result |
+|---|---|
+| Customers Analysed | 7,043 |
+| Customer Segments | 4 |
+| Highest Segment Churn | 48.60% |
+| Lowest Segment Churn | 4.74% |
+
+### Business Recommendations
+
+1. Investigate early customer experiences among newer, higher-spending customers.
+2. Explore targeted retention offers for high-churn segments.
+3. Monitor customer churn using interactive Power BI dashboards.
+4. Test proposed retention strategies before wider implementation.
+
+**Business Value:** This exploratory analysis identifies customer groups for further investigation and provides a starting point for more targeted retention decisions. The findings show associations, not proven causes of churn.
+
+**Technologies:** Python | Pandas | Scikit-learn | Matplotlib | K-Means
+
+[View Full Project on GitHub](https://github.com/vatsalsadhu10-maximus/telecom-customer-segmentation)
+
+---
 
 ## Projects in Development
 
