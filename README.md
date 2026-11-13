@@ -22,7 +22,7 @@ My experience spans IT help desk support, desktop troubleshooting, business oper
 
 I'm actively building a portfolio of projects across business analysis, data analytics and IT service delivery to demonstrate my technical capabilities, analytical thinking and commitment to continuous professional development.
 
-## Technical Skills
+
 
 
 ## Technology Stack
@@ -35,7 +35,7 @@ I'm actively building a portfolio of projects across business analysis, data ana
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
+## Technical Skills
 
 **Data Analytics**
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)
