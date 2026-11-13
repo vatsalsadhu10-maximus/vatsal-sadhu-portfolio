@@ -1,11 +1,18 @@
-# Vatsal Sadhu
+
+# Hi, I'm Vatsal Sadhu 👋
+
 ### Business Analyst | Data Analyst | IT Support Professional
 
 📍 Launceston, Tasmania, Australia  
-💼 Open to Business Analyst, Data Analyst and IT Support opportunities  
+🎓 Master of Business Analytics  
+💼 Open to BA, Data Analyst and IT Support opportunities  
 🌏 Open to relocation across Australia
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsalsadhu/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsalsadhu10-maximus)
+
 ---
+  
 
 ## About Me
 
@@ -17,12 +24,18 @@ I'm actively building a portfolio of projects across business analysis, data ana
 
 ## Technical Skills
 
-**Business Analysis**
-- Business requirements gathering and documentation
-- Business process mapping and workflow analysis
-- Stakeholder communication
-- User stories and acceptance criteria
-- Process improvement and reporting
+
+## Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
 
 **Data Analytics**
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)
