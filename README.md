@@ -54,6 +54,8 @@ I'm actively building a portfolio of projects across business analysis, data ana
 
 ## Featured Project
 
+![Customer Churn by Segment](https://raw.githubusercontent.com/vatsalsadhu10-maximus/telecom-customer-segmentation/main/outputs/churn_by_cluster.png)
+
 ### Telecommunications Customer Segmentation & Churn Analysis
 
 **Tools:** Python | Pandas | Scikit-learn | Matplotlib | K-Means Clustering
