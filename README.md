@@ -55,6 +55,26 @@ I'm actively building a portfolio of projects across business analysis, data ana
 
 ## Featured Project
 
+### Power BI — Customer Churn Analytics Dashboard
+
+![Power BI Telecom Dashboard](https://raw.githubusercontent.com/vatsalsadhu10-maximus/telecom-customer-segmentation/main/Telecom_Dashboard.png)
+
+**Project:** Telecommunications Customer Segmentation & Churn Analysis
+
+**Technologies:** Python | Pandas | Scikit-learn | Power BI
+
+**Business Objective:** Analyse customer behaviour, identify customer segments and support data-informed retention decisions.
+
+**Key Results:**
+- Analysed 7,043 customer records.
+- Identified four customer segments using K-Means.
+- Found the highest observed segment churn rate of 48.60%.
+- Developed an interactive Power BI dashboard to communicate findings.
+
+[View Full Project & Power BI Dashboard](https://github.com/vatsalsadhu10-maximus/telecom-customer-segmentation)
+
+---
+
 ### Telecommunications Customer Segmentation & Churn Analysis
 
 **Business Problem:** A telecommunications company wants to better understand customer behaviour and identify segments that may require targeted retention strategies.
